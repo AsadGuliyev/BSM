@@ -1,0 +1,17 @@
+{"event_type": "created", "src_path": "/home/ubuntu/bsm/test/example.txt", "timestamp": "2024-12-21 16:36:39"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-21 16:36:39"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test/example.txt", "timestamp": "2024-12-21 16:36:39"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-21 16:36:39"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test/example.txt", "timestamp": "2024-12-21 16:36:48"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-21 16:36:48"}
+{"event_type": "deleted", "src_path": "/home/ubuntu/bsm/test/example.txt", "timestamp": "2024-12-21 16:36:56"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-21 16:36:56"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-21 16:58:25"}
+{"event_type": "created", "src_path": "/home/ubuntu/bsm/test/example.txt", "timestamp": "2024-12-21 17:07:27"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-21 17:07:27"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test/example.txt", "timestamp": "2024-12-21 17:07:27"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-21 17:07:27"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test/example.txt", "timestamp": "2024-12-21 17:07:39"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-21 17:07:39"}
+{"event_type": "deleted", "src_path": "/home/ubuntu/bsm/test/example.txt", "timestamp": "2024-12-21 17:07:47"}
+{"event_type": "modified", "src_path": "/home/ubuntu/bsm/test", "timestamp": "2024-12-21 17:07:47"}
